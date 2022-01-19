@@ -1,0 +1,17 @@
+VerticalLayout {
+	TextWidget {
+		text: "Hello World"
+	}
+	EditLine {
+		id: "Expression"
+	}
+	HorizontalLayout {
+		Button {
+			id: "OperationButton"
+			text: "="
+		}
+	}
+		EditLine {
+		id: "Result"
+	}
+}

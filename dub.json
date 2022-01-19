@@ -1,0 +1,6 @@
+{
+	"dependencies": {
+		"dlangui": "~>0.9.186"
+	},
+	"name": "d-u-i-calculator"
+}
